@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soapess.And I'm a college student majoring in data science.
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Python
 - 🌱 I’m currently learning machine learning and 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...SECRET 
